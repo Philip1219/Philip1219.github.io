@@ -43,7 +43,7 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: mit.png
+              - college_logo: /screenshots/심벌_활용형A.gif
                 college_name: HUFS(Hankuk University of Foreign Studies)-Global Campus
                 college_url: http://www.hufs.ac.kr/index.html
                 college_degree: CS Engineer 
