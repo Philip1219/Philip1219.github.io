@@ -46,8 +46,8 @@ author_education_details:
               - college_logo: mit.png
                 college_name: HUFS(Hankuk University of Foreign Studies)-Global Campus
                 college_url: http://www.hufs.ac.kr/index.html
-                college_degree: Major: East African Studies & Minor: CS Engineer 
-                description: Bachelor of Technology & Bachelor of Arts
+                college_degree: CS Engineer 
+                description: Bachelor of Technology
                 visibility: true
 
 # Projects
