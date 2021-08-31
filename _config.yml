@@ -1,5 +1,5 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+titlE: 필립킴'S blog
+subtitle: Welcome to my devloping world! Enjoy!
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -14,23 +14,17 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
-    - text: Contact
-      url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author_logo: e4d95111-6f46-4031-93f3-dbe8dc7e4cd9.jpg
+author: Philip (Youngjin Kim)
+author_bio: Hi, my name is Philip. I keep learning on developing knowledge.
+author_email: "philipkkim1219@gamil.com"
+author_location: South Korea
+author_website_url:
+typewrite-text: Tech for everyone. Tech for the neeeds.
 
 # Experiences
 author_work_experiences:
@@ -70,16 +64,15 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: 
+github_username:  
+facebook_username: 
+linkedin_username: 
+instagram_username: 
+medium_username: 
+telegram_username: 
+
+
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
