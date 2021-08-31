@@ -18,7 +18,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: ![Philip Kim sign logo](e4d95111-6f46-4031-93f3-dbe8dc7e4cd9.jpg)
+author_logo: e4d95111-6f46-4031-93f3-dbe8dc7e4cd9.jpg
 author: Philip (Youngjin Kim)
 author_bio: Hi, my name is Philip. I'm keep on learning developing knowledge.
 author_email: "philipkkim1219@gmail.com"
@@ -43,7 +43,7 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: /screenshots/심벌_활용형A.gif
+              - college_logo: 심벌_활용형A.gif
                 college_name: HUFS(Hankuk University of Foreign Studies)-Global Campus
                 college_url: http://www.hufs.ac.kr/index.html
                 college_degree: CS Engineer 
