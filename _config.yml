@@ -18,10 +18,10 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: e4d95111-6f46-4031-93f3-dbe8dc7e4cd9.jpg
+author_logo: ![Philip Kim sign logo](e4d95111-6f46-4031-93f3-dbe8dc7e4cd9.jpg)
 author: Philip (Youngjin Kim)
-author_bio: Hi, my name is Philip. I keep learning on developing knowledge.
-author_email: "philipkkim1219@gamil.com"
+author_bio: Hi, my name is Philip. I'm keep on learning developing knowledge.
+author_email: "philipkkim1219@gmail.com"
 author_location: South Korea
 author_website_url:
 typewrite-text: Tech for everyone. Tech for the neeeds.
